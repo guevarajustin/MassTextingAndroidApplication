@@ -7,7 +7,7 @@
 
 ## Notes
 
-* This project is not actively maintained. Repository existts for demonstration purposes only. Use at your own risk.
+* This project is not actively maintained. Repository exists for demonstration purposes only. Use at your own risk.
 * This application was successfully tested on several Android devices, including an Android 4.1 device in 2018.
 * Mass texting requires a message.txt file and a phone_numbers.csv stored in the device's root storage directory ('root storage directory' location may vary depending on device). 
 * Message.txt example (file should have a maximum of 160 characters):
