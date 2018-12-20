@@ -1,9 +1,9 @@
 # MassTextingAndroidApplication
 ## 0.1.0
 
-* .csv fed mass texting application developed for a previous client. 
+* .csv fed mass texting Android application developed for a previous client. 
 * Modified for public display.
-* Application was not developed with robustness and user friendlyness in mind. There was an intent to ship the most minimal product possible so that higher priority projects could be worked on. 
+* Application was not developed with robustness and user friendliness in mind. There was an intent to ship the most minimal product possible so that higher priority projects could be worked on. 
 
 ## Notes
 
