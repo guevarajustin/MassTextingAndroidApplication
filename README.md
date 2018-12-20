@@ -14,8 +14,9 @@
 ```
 this is the text that will be in the sent text message
 ```
-* Phone_numbers.csv example (one phone number per line. Phone number should not contain spaces or characters other than numbers):
+* Phone_numbers.csv example (1 phone number per line. Phone number should not contain spaces or characters other than numbers):
 ```
 1112223333
 4445556666
 ```
+* Hard-coded 2 second delay in between each text message.
